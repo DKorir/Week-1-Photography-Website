@@ -1,4 +1,8 @@
 h1{
-    color: blue;
+    background-color: lightcoral;
     text-align: center;
+    border-color: navajowhite;
+    border-style: groove;
+    border-bottom-right-radius: 10px;
+    border-radius: 10px;
 }
