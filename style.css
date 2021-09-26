@@ -6,6 +6,7 @@ h1{
     border-bottom-right-radius: 10px;
     border-radius: 10px;
     padding: 5px;
+    margin: 10px;
 }
 .description{
     border-style: inset;
@@ -13,13 +14,37 @@ h1{
     background-color: ivory;
     border-color: khaki;
     padding: 10px;
+    margin: 1opx;
     }
 .header{
     border-color: lightcoral;
     border-style: solid;
-    background-color: lightpink;
+    background-color: lightcoral;
     text-align: center;
     border-width: 1px;
     font-size: 28px;
     padding: 1px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+#motto{
+    text-align: center;
+    font-size: 25px;
+    background-color: lightcora;
+}
+h2{
+    text-align: center;
+border-style: solid;
+    border-color: goldenrod;
+    border-width: 1px;
+    background-color: lavenderblush;
+    padding: 1px;
+    margin: 10px;
+}
+div{
+    background-color: lemonchiffon;
+    border-style: solid;
+    height: 110px;
+    border-radius: 10px;
+    margin: 10px
+}
+
