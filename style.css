@@ -1,3 +1,52 @@
+*{
+    background-color: ivory;
+}
 h1{
-    color: blue;
-    text-align: cente
+    border-style: solid;
+    border-radius: 10px;
+    border-color: lightpink;
+    text-align: center;
+    background-color: tomato;
+    font-size: xx-large;
+    padding: 10px;
+    font-weight: 900;
+}
+h2{
+    border-style: solid;
+    background-color: gold;
+    padding: 1px;
+    font-size: 26px;
+    border-radius: 10px;
+}
+.description{
+    background-color:khaki;
+}
+.header{
+    background-color: goldenrod;
+    text-align: center;
+    font-size: xx-large;
+    font-size: 26px;
+}
+#motto{
+    text-align: center;
+    background-color: khaki;
+    border-radius: 10px;
+}
+div{
+    background-color: lemonchiffon;
+    font-weight: 400;
+    font-size: 23px;
+    font-family: serif;
+    border-style: solid;
+    border-bottom: goldenrod;
+    border-radius: 5px;
+    border-color: red;
+}
+.header{
+    background-color: lightcoral;
+    border-radius: 5px;
+}
+.header1{
+    background-color: salmon;
+    font-family: fantasy;
+}
