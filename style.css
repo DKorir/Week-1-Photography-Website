@@ -11,10 +11,11 @@ h1{
 .description{
     border-style: inset;
     border-radius: 10px;
-    background-color: ivory;
+    background-color: linen;
     border-color: khaki;
     padding: 10px;
     margin: 1opx;
+
     }
 .header{
     border-color: lightcoral;
@@ -47,4 +48,13 @@ div{
     border-radius: 10px;
     margin: 10px
 }
-
+.header1{
+    text-align: left;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: lightpink;
+    background-color: navajowhite;
+}
+*{
+    background-color: linen;
+}
