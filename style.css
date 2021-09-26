@@ -14,4 +14,12 @@ h1{
     border-color: khaki;
     padding: 10px;
     }
-    
+.header{
+    border-color: lightcoral;
+    border-style: solid;
+    background-color: lightpink;
+    text-align: center;
+    border-width: 1px;
+    font-size: 28px;
+    padding: 1px;
+}
